@@ -7,5 +7,6 @@ public class Git1 {
 	@Test
 	public void hellogit() {
 		System.out.println("Hello Git2");
+		System.out.println("i am crap");
 	}
 }
